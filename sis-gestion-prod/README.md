@@ -4,7 +4,8 @@ Microservicio CRUD desarrollado con Spring Boot.
 
 ## Dependencias:
 - Spring Boot
-- JPA
+- Lombok
+- Spring Data JPA
 - MySQL
 - Flyway
 - Bean Validation
